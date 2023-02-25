@@ -22,7 +22,7 @@ DIFERENÇA DE FORÇA NO CHUTE ENTRE AS 2 TECLAS**
 ### ESPERO QUE TENHAM GOSTADO DO JOGO, NO FUTURO PRETENDO APERFEIÇOAR ALGUMAS FUNÇÕES DO JOGO**
 
 
-LINK JOGO
+[LINK JOGO](https://andrelimapoli.github.io/Projeto-1/)
 
 [LINK SLIDES](https://docs.google.com/presentation/d/15h8klopvBQtqNeJzekZ1Rmm9O7ASgLApqm-oIw0wnYY/edit?usp=sharing)
 
